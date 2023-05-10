@@ -9,7 +9,6 @@ cover
 env/
 venv/
 .venv/
-ticker_testing/
 
 # Packages
 *.egg
@@ -47,3 +46,4 @@ pip-log.txt
 
 *.csv
 *.Identifier
+*.png
