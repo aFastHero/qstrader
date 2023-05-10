@@ -8,6 +8,8 @@ cover
 # environment
 env/
 venv/
+.venv/
+ticker_testing/
 
 # Packages
 *.egg
@@ -41,3 +43,7 @@ pip-log.txt
 
 # Textmate (a Mac editor) meta files
 ._*
+
+
+*.csv
+*.Identifier
